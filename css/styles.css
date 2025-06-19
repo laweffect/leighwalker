@@ -24,7 +24,7 @@ h1, h2, h3, h4 { font-family: 'Raleway', sans-serif; margin-top: 0; }
 h3 { margin-bottom: .5rem; }
 img { margin: 0 auto; border-radius: 5px; }
 a { border-bottom: 1px var(--secondary-color) dotted; text-decoration: none; color: var(--secondary-color); transition: background-color 0.1s ease-out, color 0.1s ease-out; }
-a:hover { border-bottom: 1px var(--tertiary-color) solid; text-decoration: none; color: var(--tertiary-color); background: #ffeff4; }
+a:hover { border-bottom: 1px var(--tertiary-color) solid; text-decoration: none; color: var(--tertiary-color); background: lightpink; }
 a:focus { text-decoration: none; color: var(--tertiary-color); border-bottom: 3px var(--tertiary-color) solid; }
 #toggleBtn { display: none; }
 .dark-theme a:hover { border-bottom: 1px var(--secondary-color) solid; text-decoration: none; color: var(--tertiary-color); background: #ffeff4; }
